@@ -1,0 +1,11 @@
+/Users/rwolfe/Desktop/TEF/Dev/AltSource/bin/Debug/netcoreapp2.2/AltSource.deps.json
+/Users/rwolfe/Desktop/TEF/Dev/AltSource/bin/Debug/netcoreapp2.2/AltSource.runtimeconfig.json
+/Users/rwolfe/Desktop/TEF/Dev/AltSource/bin/Debug/netcoreapp2.2/AltSource.runtimeconfig.dev.json
+/Users/rwolfe/Desktop/TEF/Dev/AltSource/bin/Debug/netcoreapp2.2/AltSource.dll
+/Users/rwolfe/Desktop/TEF/Dev/AltSource/bin/Debug/netcoreapp2.2/AltSource.pdb
+/Users/rwolfe/Desktop/TEF/Dev/AltSource/obj/Debug/netcoreapp2.2/AltSource.csprojAssemblyReference.cache
+/Users/rwolfe/Desktop/TEF/Dev/AltSource/obj/Debug/netcoreapp2.2/AltSource.csproj.CoreCompileInputs.cache
+/Users/rwolfe/Desktop/TEF/Dev/AltSource/obj/Debug/netcoreapp2.2/AltSource.AssemblyInfoInputs.cache
+/Users/rwolfe/Desktop/TEF/Dev/AltSource/obj/Debug/netcoreapp2.2/AltSource.AssemblyInfo.cs
+/Users/rwolfe/Desktop/TEF/Dev/AltSource/obj/Debug/netcoreapp2.2/AltSource.dll
+/Users/rwolfe/Desktop/TEF/Dev/AltSource/obj/Debug/netcoreapp2.2/AltSource.pdb
